@@ -1,19 +1,12 @@
 {
-  "name": "aria-mirror-bot",
+  "name": "aria2",
   "description":
     "This project is to create the worlds best and hottest interface to interact with aria2.",
   "repository": "https://github.com/devillD/python-aria-mirror-bot",
-  "keywords": ["telegram",
-    "mirrorbot",
-    "plugin",
-    "modular",
-    "productivity"],
-  "website": "https://github.com/out386/aria-telegram-mirror-bot/blob/master/README.md",
-  "success_url": "https://github.com/out386/aria-telegram-mirror-bot",
-  "stack": "container"
-"buildpacks": [
+  "keywords": ["AngularJS", "aria2", "static"],
+  "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-static"
     }
-]
+  ]
 }
