@@ -1,0 +1,12 @@
+{
+  "name": "aria2",
+  "description":
+    "This project is to create the worlds best and hottest interface to interact with aria2.",
+  "repository": "https://github.com/devillD/python-aria-mirror-bot",
+  "keywords": ["AngularJS", "aria2", "static"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static"
+    }
+  ]
+}
