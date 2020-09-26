@@ -1,0 +1,12 @@
+{	
+  "name": "New",	
+  "description":	
+    "RTG Agun Lagabe.",	
+  "repository": "https://github.com/aritradatta0/python-aria-mirror",	
+  "keywords": ["AngularJS", "aria2", "static"],	
+  "buildpacks": [	
+    {	
+      "url": "https://github.com/heroku/heroku-buildpack-static"	
+    }	
+  ]	
+}
